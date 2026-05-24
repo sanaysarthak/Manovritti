@@ -71,6 +71,8 @@ Many existing learning systems rely on intrusive monitoring (cameras, microphone
   <source src="/Videos/manovritti-presentation.mp4" type="video/mp4">
 </video>
 
+https://github.com/user-attachments/assets/0800f1f5-1ef4-4804-802f-634a42cd946b
+
 ---
 
 ## Features
